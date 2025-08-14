@@ -5,3 +5,4 @@ sys
 signal
 os
 time
+pyinstaller
