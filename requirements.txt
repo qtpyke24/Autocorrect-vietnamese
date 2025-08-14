@@ -1,0 +1,7 @@
+phunspell
+pynput
+pyperclip
+sys
+signal
+os
+time
