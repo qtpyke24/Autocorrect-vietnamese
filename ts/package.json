@@ -1,0 +1,25 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "Autocomplete & Autocorrect Tiếng Việt với TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "typescript",
+    "autocomplete",
+    "autocorrect",
+    "viet74k",
+    "cli"
+  ],
+  "author": "Tên của bạn",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.19.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.9.2"
+  }
+}
